@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a btech student and passionate ai enthusiast
+" I’m a CSE (AI/ML) undergrad passionate about Deep Learning, Computer Vision "
 
 
 ## 🌐 Socials:
